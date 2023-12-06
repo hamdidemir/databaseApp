@@ -1,6 +1,6 @@
 # DatabaseApp
 
-**Description:** This is a database application that aims to mimic the functionality of a real database application.
+**Description:** This is a database application that aims to mimic the functionality of a real database application. It can take data from user with insert querie or from a csv file in large portions assuming the csv file well formatted and a correspoding table is used in the database. The data is stored in the files as JSON and a third party library(cJSON) is used for handling JSON. The functionality of the application is quite limited right now. You can create/delete/connect/disconnet to a database. You can create tables and insert data to thoso tables. You can select using "where" clause and aggreate functions.   
 
 ## Project Structure
 
@@ -26,7 +26,7 @@
     - `printTable.c:` Prints the given data as a table.
     - `trim.c:` Trims white spaces from the start and end of a given string.
   - **LoadFromFile:**
-    - **LoadCSV:** A function to load a large amount of data from a CSV file to the proper table. Checks if the table has the same format as the given CSV file.
+    - `LoadCSV.c` A function to load a large amount of data from a CSV file to the proper table. Checks if the table has the same format as the given CSV file.
   - **ParseSQL:**
     - `parseMainQuery.c:` Parses the main SQL query from the user and directs it to other parsers.
     - `parseCreate.c:` Parses and processes queries starting with "create."
