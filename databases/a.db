@@ -1,0 +1,16 @@
+{ "type": "data", "table name": "people", "data details": {"id": "100","Firstname": "Emilia","Lastname": "Sisile","Country": "Cook Islands","Age": "60"}}
+{ "type": "data", "table name": "people", "data details": {"id": "101","Firstname": "Patricia","Lastname": "Hylan","Country": "Finland","Age": "54"}}
+{ "type": "data", "table name": "people", "data details": {"id": "102","Firstname": "Glenda","Lastname": "Latini","Country": "Niue","Age": "78"}}
+{ "type": "data", "table name": "people", "data details": {"id": "103","Firstname": "Chandra","Lastname": "Gemini","Country": "Guinea-Bissau","Age": "31"}}
+{ "type": "data", "table name": "people", "data details": {"id": "104","Firstname": "Kore","Lastname": "Faust","Country": "Costa Rica","Age": "53"}}
+{ "type": "data", "table name": "people", "data details": {"id": "105","Firstname": "Trudie","Lastname": "Billye","Country": "Zimbabwe","Age": "20"}}
+{ "type": "data", "table name": "people", "data details": {"id": "106","Firstname": "Eadie","Lastname": "Martguerita","Country": "Slovakia","Age": "73"}}
+{ "type": "data", "table name": "people", "data details": {"id": "107","Firstname": "Amalie","Lastname": "Stover","Country": "Argentina","Age": "50"}}
+{ "type": "data", "table name": "people", "data details": {"id": "108","Firstname": "Mady","Lastname": "Ciapas","Country": "Reunion","Age": "80"}}
+{ "type": "data", "table name": "people", "data details": {"id": "109","Firstname": "Queenie","Lastname": "Elbertina","Country": "Mexico","Age": "22"}}
+{ "type": "data", "table name": "people", "data details": {"id": "110","Firstname": "Nadine","Lastname": "Couture","Country": "Saudi Arabia","Age": "82"}}
+{ "type": "data", "table name": "people", "data details": {"id": "111","Firstname": "Darlleen","Lastname": "Ackerley","Country": "Iceland","Age": "20"}}
+{ "type": "data", "table name": "people", "data details": {"id": "112","Firstname": "Debee","Lastname": "Himelman","Country": "Kenya","Age": "22"}}
+{ "type": "data", "table name": "people", "data details": {"id": "113","Firstname": "Adele","Lastname": "Carmena","Country": "Antarctica","Age": "56"}}
+{ "type": "data", "table name": "people", "data details": {"id": "114","Firstname": "Nannie","Lastname": "Lacombe","Country": "Thailand","Age": "80"}}
+{ "type": "table",  "table name": "people", "columns": [{"name": "id", "type": "INT" }, {"name": "Firstname", "type": "TEXT" }, {"name": "Lastname", "type": "TEXT" }, {"name": "Country", "type": "TEXT" }, {"name": "Age", "type": "INT" }  ]}

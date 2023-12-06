@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "deletedatabase.h": "c",
+        "fileexists.h": "c",
+        "unity.h": "c",
+        "bplustree.h": "c",
+        "processdatabasefile.h": "c",
+        "ctype.h": "c",
+        "printtable.h": "c",
+        "arraylist.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\hamdi\\OneDrive\\Masaüstü\\proje\\databaseApp",
+            "binaryPath": "c:\\Users\\hamdi\\OneDrive\\Masaüstü\\proje\\databaseApp\\run",
+            "binaryArgs": []
+        }
+    ]
+}
