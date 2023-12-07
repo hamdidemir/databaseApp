@@ -1,5 +1,7 @@
 # DatabaseApp
 
+#### Video Demo: https://www.youtube.com/watch?v=8mY-tx4kdwQ
+
 **Description:** This database application emulates the functionality of a real database system. It enables users to input data through SQL insert queries or from a well-formatted CSV file, assuming a corresponding table exists in the database. Data is stored in files using JSON, with the application utilizing the cJSON library for effective JSON handling. Presently, the application offers limited functionality. Users can create, delete, connect, and disconnect from databases. Additionally, they can create tables, insert data into these tables, and perform selection operations using a "where" clause and aggregate functions.
 
 ## Project Structure
